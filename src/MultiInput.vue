@@ -58,6 +58,7 @@
                     return []
                 }
             },
+            //存储编辑已存在的数据
             eMultiResult: {
                 type: Array,
                 default: function () {
